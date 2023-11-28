@@ -1,0 +1,22 @@
+{
+  "name": "desafio6",
+  "version": "1.0.0",
+  "description": "integracao e modelagem de dados de um produto digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoSobralM/Desafio6.git"
+  },
+  "author": "rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoSobralM/Desafio6/issues"
+  },
+  "homepage": "https://github.com/RodrigoSobralM/Desafio6#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
